@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nostrpy",
-    version="0.1.0.dev1",
+    version="0.1.1.dev1",
     description='A Python wrapper for Nostr Serverless API (NSA)',
     url='https://github.com/kevinbolger/nostrpy',
     author='Kevin Bolger',
