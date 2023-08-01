@@ -1,4 +1,4 @@
-from util import config_env, send_post_request, check_values
+from .util import config_env, send_post_request, check_values
 
 def fetch_user_notes(authors=None, event_refs=None, pubkey_refs=None, since=None, until=None, limit=2000):
     """
